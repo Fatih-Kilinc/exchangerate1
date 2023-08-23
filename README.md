@@ -1,0 +1,2 @@
+# exchangerate1
+ USD
